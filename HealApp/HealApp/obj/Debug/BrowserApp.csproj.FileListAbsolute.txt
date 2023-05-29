@@ -1,0 +1,14 @@
+D:\cv\kungfu\GitProjects\HealApp\HealApp\bin\Debug\HealApp.exe.config
+D:\cv\kungfu\GitProjects\HealApp\HealApp\bin\Debug\HealApp.exe
+D:\cv\kungfu\GitProjects\HealApp\HealApp\bin\Debug\HealApp.pdb
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\BrowserApp.csproj.AssemblyReference.cache
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\BrowserApp.csproj.CoreCompileInputs.cache
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\HealApp.exe
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\HealApp.pdb
+D:\Assignment\HealApp\HealApp\bin\Debug\HealApp.exe.config
+D:\Assignment\HealApp\HealApp\bin\Debug\HealApp.exe
+D:\Assignment\HealApp\HealApp\bin\Debug\HealApp.pdb
+D:\Assignment\HealApp\HealApp\obj\Debug\BrowserApp.csproj.AssemblyReference.cache
+D:\Assignment\HealApp\HealApp\obj\Debug\BrowserApp.csproj.CoreCompileInputs.cache
+D:\Assignment\HealApp\HealApp\obj\Debug\HealApp.exe
+D:\Assignment\HealApp\HealApp\obj\Debug\HealApp.pdb

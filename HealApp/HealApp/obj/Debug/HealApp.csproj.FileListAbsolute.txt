@@ -1,0 +1,7 @@
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\HealApp.csproj.AssemblyReference.cache
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\HealApp.csproj.CoreCompileInputs.cache
+D:\cv\kungfu\GitProjects\HealApp\HealApp\bin\Debug\HealApp.exe.config
+D:\cv\kungfu\GitProjects\HealApp\HealApp\bin\Debug\HealApp.exe
+D:\cv\kungfu\GitProjects\HealApp\HealApp\bin\Debug\HealApp.pdb
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\HealApp.exe
+D:\cv\kungfu\GitProjects\HealApp\HealApp\obj\Debug\HealApp.pdb
